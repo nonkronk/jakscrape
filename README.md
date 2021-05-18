@@ -7,4 +7,4 @@ JakScrape is a web crawling engine based on Scrapy Framework that scrape/crawl a
 Thanks to David J. Malan and cs50 staff.
 This was CS50.
 
-On the next future I want to generate public REST API from it.
+In the next future I want to generate public REST API from it.
